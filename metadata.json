@@ -1,0 +1,6 @@
+{
+  "name": "OptiKallpa - Gestión Óptica & Facturación SUNAT",
+  "description": "Sistema integral y responsivo para ópticas en Perú: inventario oftálmico, recetas clínicas, ventas POS, pedidos de laboratorio, facturación electrónica SUNAT y reportes financieros con integración Slim 4 y MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
